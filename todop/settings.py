@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-vutp+^4z0*a@!%n%)oz*jg#^9onzi^k=*#3(bdja%n8vpp)*2%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['lothart.pythonanywhere.com']
+ALLOWED_HOSTS = ['Lothart.pythonanywhere.com']
 
 
 # Application definition
@@ -119,7 +119,7 @@ USE_TZ = True
 
 STATIC_URL = "static/"
 
-STATIC_ROOT = '/home/yourusername/yourproject/static/'
+STATIC_ROOT = '/home/Lothart/todop/static/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field

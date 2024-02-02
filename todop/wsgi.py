@@ -2,7 +2,7 @@
 import os
 import sys
 
-path = '/home/lothart/yourproject'
+path = '/home/Lothart/todop'
 if path not in sys.path:
     sys.path.append(path)
 
